@@ -2,5 +2,11 @@ Lena arbeitet beim MPA.
 Sie muss viele Messungen machen.
 
 Messung 1 viele Zahlen
+<<<<<<< HEAD
 fertig! 
 Doch noch nicht!
+=======
+fertig!
+
+etwas kompliziert
+>>>>>>> 6e530596bf3cf688f6fa871f6ae94e8170996075
